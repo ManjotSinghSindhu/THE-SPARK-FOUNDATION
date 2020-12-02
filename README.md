@@ -9,6 +9,7 @@ Predict the percentage of marks of an student based on the number of study hours
 2. You can use R, Python, SAS Enterprise Miner or any other tool.<br>
 3. Data can be found at http://bit.ly/w data.<br>
 4. What will be predicted score if a student studies for 9.25 hrs/ day?<br>
-5. Link to the Code: https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/PREDICTING%20STUDENT'S%20PERCENTAGE.ipynb
+5. Link to the Code: <br>
+  https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/PREDICTING%20STUDENT'S%20PERCENTAGE.ipynb
 
 _________________________________________________________________________________________________________________________________________________________________
