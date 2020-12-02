@@ -1,6 +1,12 @@
 # THE-SPARK-FOUNDATION
 _________________________________________________________________________________________________________________________________________________________________
 <b>THE SPARK FOUNDATION DATA SCIENCE &amp; BUSINESS ANALYTICS </b><br>
+The Sparks Foundation mission is to inspire students, help them innovate and let them integrate to build the next generation humankind with a vision of a world of enabled and connected little minds that build the future.
+
+**ABOUT THE INTERNSHIP**
+1. Internship Position: Data Science and Business Analytics
+2. Internship Duration: One Month
+3. Internship Type: Work from Home
 _________________________________________________________________________________________________________________________________________________________________
 
 <b>TASK 1:<br> 
