@@ -19,3 +19,13 @@ Predict the percentage of marks of an student based on the number of study hours
   https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/PREDICTING%20STUDENT'S%20PERCENTAGE.ipynb
 
 _________________________________________________________________________________________________________________________________________________________________
+
+<b>TASK 2:<br> 
+Prediction using Unsupervised ML (Level - Beginner)</b><br>
+1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.<br>
+2. Use R or Python or perform this task.<br>
+3. Dataset : https://bit.ly/3kXTdox <br>
+4. Link to the Code: <br>
+  https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/UNSUPERVISED%20ML%20K%20MEANS%20CLUSTERING.ipynb
+  
+_________________________________________________________________________________________________________________________________________________________________
