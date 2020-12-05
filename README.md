@@ -37,7 +37,7 @@ Exploratory Data Analysis - Retail (Level - Beginner)</b><br>
 _________________________________________________________________________________________________________________________________________________________________
 
 <b>TASK 4:<br> 
-Exploratory Data Analysis - Terrorism (Level - Intermediate)
+Exploratory Data Analysis - Terrorism (Level - Intermediate)</b><br>
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’<br>
 2. As a security/defense analyst, try to find out the hot zone of terrorism.<br>
 3. What all security issues and insights you can derive by EDA?<br>
