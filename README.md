@@ -33,6 +33,7 @@ Exploratory Data Analysis - Retail (Level - Beginner)</b><br>
 4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br> 
 5. Dataset: https://bit.ly/3i4rbWl<br>
 6. Link to the Code :<br>
+  https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20-%20RETAIL.ipynb
 
 _________________________________________________________________________________________________________________________________________________________________
 
