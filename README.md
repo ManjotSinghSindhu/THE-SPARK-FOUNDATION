@@ -48,3 +48,12 @@ Exploratory Data Analysis - Terrorism (Level - Intermediate)</b><br>
   https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20-%20TERRORISM.rar
   
 _________________________________________________________________________________________________________________________________________________________________
+
+<b>TASK 5:<br> 
+Exploratory Data Analysis - Sports (Level - Advanced)</b><br>
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’<br>
+2. As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.<br>
+3. Suggest teams or players a company should endorse for its products.<br>
+4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+5. Dataset: https://bit.ly/34SRn3b<br>
+6. Link to the Code:<br>
