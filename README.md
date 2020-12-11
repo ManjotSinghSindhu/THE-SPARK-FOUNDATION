@@ -58,3 +58,18 @@ Exploratory Data Analysis - Sports (Level - Advanced)</b><br>
 5. Dataset: https://bit.ly/34SRn3b<br>
 6. Link to the Code:<br>
   https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/Exploratory%20Data%20Analysis%20-%20Sports%20Task-5%20(TSF).ipynb
+
+_________________________________________________________________________________________________________________________________________________________________
+
+<b>TASK 6:<br>
+Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)</b><br>
+1. Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines<br>
+2. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)<br>
+3. Download historical stock prices from finance.yahoo.com<br>
+4. Download textual (news) data from https://bit.ly/36fFPI6<br>
+5. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model<br>
+6. You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.<br>
+7. Link yo the Code:<br>
+  
+  
+  
