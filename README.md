@@ -62,14 +62,14 @@ Exploratory Data Analysis - Sports (Level - Advanced)</b><br>
 _________________________________________________________________________________________________________________________________________________________________
 
 <b>TASK 6:<br>
-Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)</b><br>
-1. Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines<br>
-2. Stock to analyze and predict - SENSEX (S&P BSE SENSEX)<br>
-3. Download historical stock prices from finance.yahoo.com<br>
-4. Download textual (news) data from https://bit.ly/36fFPI6<br>
-5. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model<br>
-6. You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.<br>
-7. Link yo the Code:<br>
+Timeline Analysis : Covid-19 (Level - Advanced)</b><br>
+1. Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP<br>
+2. Use animation, timeline and annotations to create attractive and interactive dashboards and story<br>
+3. Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts<br>
+4. Dataset: Daily updated .csv file on https://bit.ly/30d2gdi<br>
+5. Link to the Code:<br>
+
+_________________________________________________________________________________________________________________________________________________________________
   
   
   
