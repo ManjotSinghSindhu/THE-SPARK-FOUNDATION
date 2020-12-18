@@ -68,6 +68,7 @@ Timeline Analysis : Covid-19 (Level - Advanced)</b><br>
 3. Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts<br>
 4. Dataset: Daily updated .csv file on https://bit.ly/30d2gdi<br>
 5. Link to the Code:<br>
+  https://github.com/ManjotSinghSindhu/THE-SPARK-FOUNDATION/blob/main/TIMELINE%20ANALYSIS%20-%20COVID%2019.ipynb
 
 _________________________________________________________________________________________________________________________________________________________________
   
